@@ -1,0 +1,34 @@
+footer {
+	margin:10px 0 0 0;
+	height:110px;
+	background-image: url(images/under_logo.gif);
+	background-repeat: no-repeat;
+	background-position: 40px center;	
+	
+}
+footer #copy1 {
+	margin: 5px 0 10px 40px;
+	width:950px;	
+	float:left;	
+	color:white;
+}
+footer #copy2 {
+	margin: -5px 0 10px 40px;
+	width:50px;	
+	float:left;
+	text-align:center;	
+	color:white;
+}
+footer #copy3 {
+	margin: 0 0 10px 40px;
+	float:left;
+	text-align:center;	
+	color:white;
+}
+footer a:link{
+	color:#fff;
+}
+footer a:hover{
+	text-decoration:none;
+	color: #2ecc71;
+}
